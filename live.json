@@ -1,67 +1,67 @@
 {
-  "generated_at": "2026-11-20 16:28:53 GMT (Europe/London)",
+  "generated_at": "2026-11-20 16:33:51 GMT (Europe/London)",
   "timezone": "Europe/London",
   "pages_url": "https://harryfarnon.github.io/gta-clip-chaos-tracker/",
   "live_now": [
     {
-      "id": "lacy",
-      "name": "Lacy (live) 2026-11-20 16:28",
-      "platform": "twitch",
-      "url": "https://www.twitch.tv/lacy",
-      "recording": false,
-      "record_only": false
-    },
-    {
-      "id": "jasontheween",
-      "name": "jasontheween (live) 2026-11-20 16:28",
-      "platform": "twitch",
-      "url": "https://www.twitch.tv/jasontheween",
-      "recording": false,
-      "record_only": false
-    },
-    {
-      "id": "marlon",
-      "name": "Marlon (live) 2026-11-20 16:28",
-      "platform": "twitch",
-      "url": "https://www.twitch.tv/marlon",
-      "recording": false,
-      "record_only": false
-    },
-    {
       "id": "clix",
-      "name": "Clix (live) 2026-11-20 16:28",
+      "name": "Clix (live) 2026-11-20 16:33",
       "platform": "twitch",
       "url": "https://www.twitch.tv/clix",
       "recording": false,
       "record_only": false
     },
     {
+      "id": "jasontheween",
+      "name": "jasontheween (live) 2026-11-20 16:33",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/jasontheween",
+      "recording": false,
+      "record_only": false
+    },
+    {
+      "id": "lacy",
+      "name": "Lacy (live) 2026-11-20 16:33",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/lacy",
+      "recording": false,
+      "record_only": false
+    },
+    {
+      "id": "marlon",
+      "name": "Marlon (live) 2026-11-20 16:33",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/marlon",
+      "recording": false,
+      "record_only": false
+    },
+    {
       "id": "skiimasktimmy",
-      "name": "SkiiMaskTimmy (live) 2026-11-20 16:28",
+      "name": "SkiiMaskTimmy (live) 2026-11-20 16:33",
       "platform": "twitch",
       "url": "https://www.twitch.tv/skiimasktimmy",
       "recording": false,
       "record_only": false
     },
     {
-      "id": "kaicenat",
-      "name": "KaiCenat (live) 2026-11-20 16:28",
-      "platform": "twitch",
-      "url": "https://www.twitch.tv/kaicenat",
-      "recording": false,
-      "record_only": false
-    },
-    {
       "id": "kreekcraft",
-      "name": "KreekCraft (live) 2026-11-20 16:28",
+      "name": "KreekCraft (live) 2026-11-20 16:33",
       "platform": "twitch",
       "url": "https://www.twitch.tv/kreekcraft",
       "recording": false,
       "record_only": false
     },
     {
+      "id": "kaicenat",
+      "name": "KaiCenat (live) 2026-11-20 16:33",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/kaicenat",
+      "recording": false,
+      "record_only": false
+    },
+    {
       "id": "dylanpage",
-      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 16:28",
+      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 16:33",
       "platform": "youtube",
       "url": "https://www.youtube.com/@dylan.page./live",
       "recording": false,
@@ -69,7 +69,7 @@
     },
     {
       "id": "tomo",
-      "name": "\ud83d\udd34 PLAYING GTA 6 (DAY 3) 2026-11-20 16:28",
+      "name": "\ud83d\udd34 PLAYING GTA 6 (DAY 3) 2026-11-20 16:33",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Tomovids/live",
       "recording": false,
@@ -90,8 +90,8 @@
     "dasgasd3m"
   ],
   "in_progress": {
-    "unjudged_windows": 98,
-    "score_windows_total": 404,
+    "unjudged_windows": 58,
+    "score_windows_total": 407,
     "ready_to_post": 52,
     "visual_held": 3,
     "cutting_or_open": 0,
@@ -228,6 +228,6 @@
     "claude_backoff_until": "2026-11-20T16:58:43+00:00",
     "cursor_backoff_until": null,
     "judge_engine": "cursor",
-    "last_autorun": "2026-11-20 16:24:10 Europe/London  autorun done in 46s  scored=0 judged=30 live=9"
+    "last_autorun": "2026-11-20 16:28:55 Europe/London  autorun done in 31s  scored=0 judged=27 live=9"
   }
 }
