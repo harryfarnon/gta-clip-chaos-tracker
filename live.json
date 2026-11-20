@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-20 16:43:44 GMT (Europe/London)",
+  "generated_at": "2026-11-20 16:48:38 GMT (Europe/London)",
   "timezone": "Europe/London",
   "pages_url": "https://harryfarnon.github.io/gta-clip-chaos-tracker/",
   "live_now": [
     {
-      "id": "clix",
-      "name": "Clix (live) 2026-11-20 16:43",
-      "platform": "twitch",
-      "url": "https://www.twitch.tv/clix",
-      "recording": false,
-      "record_only": false
-    },
-    {
       "id": "marlon",
-      "name": "Marlon (live) 2026-11-20 16:43",
+      "name": "Marlon (live) 2026-11-20 16:48",
       "platform": "twitch",
       "url": "https://www.twitch.tv/marlon",
       "recording": false,
       "record_only": false
     },
     {
+      "id": "clix",
+      "name": "Clix (live) 2026-11-20 16:48",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/clix",
+      "recording": false,
+      "record_only": false
+    },
+    {
       "id": "jasontheween",
-      "name": "jasontheween (live) 2026-11-20 16:43",
+      "name": "jasontheween (live) 2026-11-20 16:48",
       "platform": "twitch",
       "url": "https://www.twitch.tv/jasontheween",
       "recording": false,
@@ -29,7 +29,7 @@
     },
     {
       "id": "lacy",
-      "name": "Lacy (live) 2026-11-20 16:43",
+      "name": "Lacy (live) 2026-11-20 16:48",
       "platform": "twitch",
       "url": "https://www.twitch.tv/lacy",
       "recording": false,
@@ -37,7 +37,7 @@
     },
     {
       "id": "skiimasktimmy",
-      "name": "SkiiMaskTimmy (live) 2026-11-20 16:43",
+      "name": "SkiiMaskTimmy (live) 2026-11-20 16:48",
       "platform": "twitch",
       "url": "https://www.twitch.tv/skiimasktimmy",
       "recording": false,
@@ -45,7 +45,7 @@
     },
     {
       "id": "kaicenat",
-      "name": "KaiCenat (live) 2026-11-20 16:43",
+      "name": "KaiCenat (live) 2026-11-20 16:48",
       "platform": "twitch",
       "url": "https://www.twitch.tv/kaicenat",
       "recording": false,
@@ -53,7 +53,7 @@
     },
     {
       "id": "kreekcraft",
-      "name": "KreekCraft (live) 2026-11-20 16:43",
+      "name": "KreekCraft (live) 2026-11-20 16:48",
       "platform": "twitch",
       "url": "https://www.twitch.tv/kreekcraft",
       "recording": false,
@@ -61,7 +61,7 @@
     },
     {
       "id": "dylanpage",
-      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 16:43",
+      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 16:48",
       "platform": "youtube",
       "url": "https://www.youtube.com/@dylan.page./live",
       "recording": false,
@@ -69,7 +69,7 @@
     },
     {
       "id": "tomo",
-      "name": "\ud83d\udd34 PLAYING GTA 6 (DAY 3) 2026-11-20 16:43",
+      "name": "\ud83d\udd34 PLAYING GTA 6 (DAY 3) 2026-11-20 16:48",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Tomovids/live",
       "recording": false,
@@ -90,7 +90,7 @@
     "dasgasd3m"
   ],
   "in_progress": {
-    "unjudged_windows": 10,
+    "unjudged_windows": 0,
     "score_windows_total": 407,
     "ready_to_post": 52,
     "visual_held": 3,
@@ -228,6 +228,6 @@
     "claude_backoff_until": "2026-11-20T16:58:43+00:00",
     "cursor_backoff_until": null,
     "judge_engine": "cursor",
-    "last_autorun": "2026-11-20 16:38:51 Europe/London  autorun done in 27s  scored=0 judged=20 live=9"
+    "last_autorun": "2026-11-20 16:43:46 Europe/London  autorun done in 22s  scored=0 judged=10 live=9"
   }
 }
