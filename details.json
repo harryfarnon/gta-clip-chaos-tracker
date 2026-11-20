@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-11-20 17:59:37 GMT (Europe/London)",
-  "next_update": "18:00 Europe/London",
-  "note": "Public view counts via yt-dlp. Submission flags come from posted-today.json / POSTED.md. Null views mean the fetch failed; previous values are kept when present.",
+  "updated_at": "2026-11-20 18:01:53 GMT (Europe/London)",
+  "next_update": "12:00 (next day) Europe/London",
+  "note": "Public view counts via yt-dlp, with a sample of YouTube zeros checked on the public watch page. Submission flags come from POSTED.md. Null views mean the fetch failed or there is no URL; zeros are real public counts, not guesses.",
   "pipeline_health": {
     "watcher_running": false,
     "disk_free_gb": 1393.7,
     "claude_backoff_until": null,
-    "last_autorun": "2026-11-20 17:48:40 Europe/London  autorun done in 15s  scored=0 judged=0 live=10",
+    "last_autorun": "2026-11-20 17:53:40 Europe/London  autorun done in 16s  scored=0 judged=0 live=10",
     "notes": [
-      "Claude Code hit its 5-hour limit at 12:58 Europe/London; judging is paused until about 14:58 / 4pm. Recording and scoring continue.",
-      "Kai Cenat dropped at 12:39 after a Twitch stream id change and was not re-recorded until the watcher was restarted at 13:03. He is recording again."
+      "PC is online. Latest live snapshot 17:58 Europe/London shows the watcher not running: 10 campaign streamers were live but none were being recorded.",
+      "52 clips ready to post; 3 held by the visual gate. Claude backoff has cleared.",
+      "4 clips from 19 Nov (YouTube DNk8I3vjWmI, u_DuASZu4eg, xeDpc3ZBtmU, J40k-2v1e0c) have no TikTok ID in POSTED.md, so TikTok views are blank. Their Content Rewards submissions were unknown."
     ]
   },
   "clips": [
@@ -58,7 +59,7 @@
       "tt_submitted": true
     },
     {
-      "title": "JasonTheWeen wins a GTA 6 street race by 0.2s \u2014 then the cops show up",
+      "title": "JasonTheWeen wins a GTA 6 street race by 0.2s — then the cops show up",
       "streamer": "JasonTheWeen",
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/DmjsrwyrhOY",
