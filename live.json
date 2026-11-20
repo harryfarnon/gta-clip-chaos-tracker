@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20 13:08:08 GMT (Europe/London)",
+  "generated_at": "2026-11-20 13:08:33 GMT (Europe/London)",
   "timezone": "Europe/London",
   "pages_url": "https://harryfarnon.github.io/gta-clip-chaos-tracker/",
   "live_now": [
@@ -189,8 +189,8 @@
   ],
   "pipeline": {
     "watcher_running": true,
-    "disk_free_gb": 1401.2,
+    "disk_free_gb": 1401.8,
     "claude_backoff_until": "2026-11-20T14:58:23+00:00",
-    "last_autorun": "2026-11-20 13:03:38 Europe/London  autorun done in 11s  scored=0 judged=0 live=4"
+    "last_autorun": "2026-11-20 13:08:11 Europe/London  autorun done in 19s  scored=0 judged=0 live=4"
   }
 }
