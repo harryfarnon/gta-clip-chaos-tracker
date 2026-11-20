@@ -1,0 +1,196 @@
+{
+  "generated_at": "2026-11-20 13:06:51 GMT (Europe/London)",
+  "timezone": "Europe/London",
+  "pages_url": "https://harryfarnon.github.io/gta-clip-chaos-tracker/",
+  "live_now": [
+    {
+      "id": "lacy",
+      "name": "Lacy (live) 2026-11-20 13:03",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/lacy",
+      "recording": true,
+      "record_only": false
+    },
+    {
+      "id": "marlon",
+      "name": "Marlon (live) 2026-11-20 13:03",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/marlon",
+      "recording": true,
+      "record_only": false
+    },
+    {
+      "id": "kaicenat",
+      "name": "KaiCenat (live) 2026-11-20 13:03",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/kaicenat",
+      "recording": true,
+      "record_only": false
+    },
+    {
+      "id": "dylanpage",
+      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 13:03",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@dylan.page./live",
+      "recording": true,
+      "record_only": false
+    }
+  ],
+  "offline_campaign": [
+    "jasontheween",
+    "clix",
+    "adapt",
+    "stableronaldo",
+    "core",
+    "silky",
+    "skiimasktimmy",
+    "kreekcraft",
+    "asianjeff",
+    "yourrage",
+    "tomo",
+    "bobbyvanriper",
+    "boeshi",
+    "diegoloveless",
+    "pilat",
+    "dasgasd3m"
+  ],
+  "in_progress": {
+    "unjudged_windows": 378,
+    "score_windows_total": 378,
+    "ready_to_post": 52,
+    "visual_held": 3,
+    "cutting_or_open": 0,
+    "ready_examples": [
+      {
+        "id": "20261120T124433_kaicenat_336-364",
+        "title": "Kai Cenat crashes a bike into an SUV in GTA 6 \u00f0\u0178\u02dc\u00ad #gta6 #kaicenat",
+        "streamer": "kaicenat",
+        "campaign": "kai-cenat-pool"
+      },
+      {
+        "id": "20261120T062454_lacy_283-311",
+        "title": "Lacy tried to save her from a GATOR in GTA 6 \u00f0\u0178\u02dc\u00ad",
+        "streamer": "lacy",
+        "campaign": "lacy-pool"
+      },
+      {
+        "id": "20261120T054025_jasontheween_108-136",
+        "title": "JasonTheWeen Wrecks His New Car Already in GTA 6 \u00f0\u0178\u02dc\u00ad",
+        "streamer": "jasontheween",
+        "campaign": "jasontheween-pool"
+      },
+      {
+        "id": "20261120T053908_jasontheween_52-80",
+        "title": "JasonTheWeen's GTA 6 Driving Gets Roasted \u00f0\u0178\u02dc\u00ad #gta6",
+        "streamer": "jasontheween",
+        "campaign": "jasontheween-pool"
+      },
+      {
+        "id": "20261120T052532_lacy_6-34",
+        "title": "Lacy trash talks then drops to LAST in GTA 6 race",
+        "streamer": "lacy",
+        "campaign": "lacy-pool"
+      },
+      {
+        "id": "20261120T051104_jasontheween_42-70",
+        "title": "JasonTheWeen goes FULL 5 STARS in GTA 6",
+        "streamer": "jasontheween",
+        "campaign": "jasontheween-pool"
+      },
+      {
+        "id": "20261120T050948_jasontheween_572-600",
+        "title": "JasonTheWeen's GTA 6 Bus Getaway Goes Wrong #GTA6",
+        "streamer": "jasontheween",
+        "campaign": "jasontheween-pool"
+      },
+      {
+        "id": "20261120T045449_jasontheween_25-53",
+        "title": "JasonTheWeen Robs A $1,000,000-Per-Bag Vault In GTA 6",
+        "streamer": "jasontheween",
+        "campaign": "jasontheween-pool"
+      }
+    ],
+    "held_examples": [
+      {
+        "id": "20261120T045758_lacy_326-354",
+        "title": "Lacy's GTA 6 bike chase ends in instant WASTED",
+        "streamer": "lacy",
+        "campaign": ""
+      },
+      {
+        "id": "20261120T045641_jasontheween_128-156",
+        "title": "JasonTheWeen 1v100 at 5 stars in GTA 6 \u00f0\u0178\u02dc\u00ad",
+        "streamer": "jasontheween",
+        "campaign": ""
+      },
+      {
+        "id": "20261119T213859_jasontheween_104-132",
+        "title": "JasonTheWeen Spends $3,000 On A Birkin In GTA 6",
+        "streamer": "jasontheween",
+        "campaign": ""
+      }
+    ]
+  },
+  "posted_today": [
+    {
+      "title": "Lacy tried to save her from a GATOR in GTA 6",
+      "streamer": "Lacy",
+      "campaign": "lacy-gta-vi-marathon",
+      "youtube_url": "https://youtube.com/shorts/2vpZ_e12Hsw",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710229920797953302",
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "JasonTheWeen robs a $1,000,000-per-bag vault in GTA 6",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_url": "https://youtube.com/shorts/FgG3-FuIfXc",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231011954576662",
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "Lacy caught the GTA 6 dogs in 4K",
+      "streamer": "Lacy",
+      "campaign": "lacy-gta-vi-marathon",
+      "youtube_url": "https://youtube.com/shorts/1MmGuoUAZK8",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231887473610006",
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "JasonTheWeen goes FULL 5 STARS in GTA 6",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_url": "https://youtube.com/shorts/emrnrmUrXX8",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710232618322873603",
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "JasonTheWeen wins a GTA 6 street race by 0.2s \u2014 then the cops show up",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_url": "https://youtube.com/shorts/DmjsrwyrhOY",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233448803208470",
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "JasonTheWeen can't believe what happened to his GTA 6 house",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_url": "https://youtube.com/shorts/NwfR1AOv9oY",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233885702982934",
+      "yt_submitted": true,
+      "tt_submitted": true
+    }
+  ],
+  "pipeline": {
+    "watcher_running": false,
+    "disk_free_gb": 1401.4,
+    "claude_backoff_until": "2026-11-20T14:58:23+00:00",
+    "last_autorun": "2026-11-20 13:03:38 Europe/London  autorun done in 11s  scored=0 judged=0 live=4"
+  }
+}
