@@ -1,0 +1,96 @@
+{
+  "updated_at": "2026-11-20 13:05:49 GMT (Europe/London)",
+  "next_update": "2026-11-20 18:00 Europe/London",
+  "note": "First stub. View counts are blank on purpose (not yet refreshed). Do not invent figures. The 12:00 and 18:00 Europe/London job overwrites this file.",
+  "pipeline_health": {
+    "watcher_running": true,
+    "autorun_interval_min": 5,
+    "claude_backoff_until": "2026-11-20 14:58:23 Europe/London (resets 4pm)",
+    "disk_free_gb": 1402,
+    "notes": [
+      "Claude Code hit its 5-hour limit at 12:58 Europe/London; judging is paused until about 14:58 / 4pm. Recording and scoring continue.",
+      "Kai Cenat dropped at 12:39 after a Twitch stream id change and was not re-recorded until the watcher was restarted at 13:03. He is recording again."
+    ]
+  },
+  "clips": [
+    {
+      "title": "Lacy tried to save her from a GATOR in GTA 6",
+      "streamer": "Lacy",
+      "campaign": "lacy-gta-vi-marathon",
+      "youtube_id": "2vpZ_e12Hsw",
+      "tiktok_id": "7710229920797953302",
+      "youtube_url": "https://youtube.com/shorts/2vpZ_e12Hsw",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710229920797953302",
+      "yt_submitted": true,
+      "tt_submitted": true,
+      "youtube_views": null,
+      "tiktok_views": null
+    },
+    {
+      "title": "JasonTheWeen robs a $1,000,000-per-bag vault in GTA 6",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_id": "FgG3-FuIfXc",
+      "tiktok_id": "7710231011954576662",
+      "youtube_url": "https://youtube.com/shorts/FgG3-FuIfXc",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231011954576662",
+      "yt_submitted": true,
+      "tt_submitted": true,
+      "youtube_views": null,
+      "tiktok_views": null
+    },
+    {
+      "title": "Lacy caught the GTA 6 dogs in 4K",
+      "streamer": "Lacy",
+      "campaign": "lacy-gta-vi-marathon",
+      "youtube_id": "1MmGuoUAZK8",
+      "tiktok_id": "7710231887473610006",
+      "youtube_url": "https://youtube.com/shorts/1MmGuoUAZK8",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231887473610006",
+      "yt_submitted": true,
+      "tt_submitted": true,
+      "youtube_views": null,
+      "tiktok_views": null
+    },
+    {
+      "title": "JasonTheWeen goes FULL 5 STARS in GTA 6",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_id": "emrnrmUrXX8",
+      "tiktok_id": "7710232618322873603",
+      "youtube_url": "https://youtube.com/shorts/emrnrmUrXX8",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710232618322873603",
+      "yt_submitted": true,
+      "tt_submitted": true,
+      "youtube_views": null,
+      "tiktok_views": null
+    },
+    {
+      "title": "JasonTheWeen wins a GTA 6 street race by 0.2s \u2014 then the cops show up",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_id": "DmjsrwyrhOY",
+      "tiktok_id": "7710233448803208470",
+      "youtube_url": "https://youtube.com/shorts/DmjsrwyrhOY",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233448803208470",
+      "yt_submitted": true,
+      "tt_submitted": true,
+      "youtube_views": null,
+      "tiktok_views": null
+    },
+    {
+      "title": "JasonTheWeen can't believe what happened to his GTA 6 house",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_id": "NwfR1AOv9oY",
+      "tiktok_id": "7710233885702982934",
+      "youtube_url": "https://youtube.com/shorts/NwfR1AOv9oY",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233885702982934",
+      "yt_submitted": true,
+      "tt_submitted": true,
+      "note": "YouTube published 20 Nov 11:46 Europe/London (clip 20 from the 19 Nov batch); TikTok posted 20 Nov.",
+      "youtube_views": null,
+      "tiktok_views": null
+    }
+  ]
+}
