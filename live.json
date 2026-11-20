@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-20 13:07:38 GMT (Europe/London)",
+  "generated_at": "2026-11-20 13:08:08 GMT (Europe/London)",
   "timezone": "Europe/London",
   "pages_url": "https://harryfarnon.github.io/gta-clip-chaos-tracker/",
   "live_now": [
     {
       "id": "lacy",
-      "name": "Lacy (live) 2026-11-20 13:03",
+      "name": "Lacy (live) 2026-11-20 13:08",
       "platform": "twitch",
       "url": "https://www.twitch.tv/lacy",
       "recording": true,
@@ -13,7 +13,7 @@
     },
     {
       "id": "marlon",
-      "name": "Marlon (live) 2026-11-20 13:03",
+      "name": "Marlon (live) 2026-11-20 13:08",
       "platform": "twitch",
       "url": "https://www.twitch.tv/marlon",
       "recording": true,
@@ -21,7 +21,7 @@
     },
     {
       "id": "kaicenat",
-      "name": "KaiCenat (live) 2026-11-20 13:03",
+      "name": "KaiCenat (live) 2026-11-20 13:08",
       "platform": "twitch",
       "url": "https://www.twitch.tv/kaicenat",
       "recording": true,
@@ -29,7 +29,7 @@
     },
     {
       "id": "dylanpage",
-      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 13:03",
+      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 13:08",
       "platform": "youtube",
       "url": "https://www.youtube.com/@dylan.page./live",
       "recording": true,
@@ -188,8 +188,8 @@
     }
   ],
   "pipeline": {
-    "watcher_running": false,
-    "disk_free_gb": 1401.3,
+    "watcher_running": true,
+    "disk_free_gb": 1401.2,
     "claude_backoff_until": "2026-11-20T14:58:23+00:00",
     "last_autorun": "2026-11-20 13:03:38 Europe/London  autorun done in 11s  scored=0 judged=0 live=4"
   }
