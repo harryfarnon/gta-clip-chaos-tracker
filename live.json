@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-11-20 14:33:34 GMT (Europe/London)",
+  "generated_at": "2026-11-20 14:39:17 GMT (Europe/London)",
   "timezone": "Europe/London",
   "pages_url": "https://harryfarnon.github.io/gta-clip-chaos-tracker/",
   "live_now": [
     {
-      "id": "jasontheween",
-      "name": "jasontheween (live) 2026-11-20 14:33",
-      "platform": "twitch",
-      "url": "https://www.twitch.tv/jasontheween",
-      "recording": true,
-      "record_only": false
-    },
-    {
       "id": "marlon",
-      "name": "Marlon (live) 2026-11-20 14:33",
+      "name": "Marlon (live) 2026-11-20 14:38",
       "platform": "twitch",
       "url": "https://www.twitch.tv/marlon",
       "recording": true,
@@ -21,15 +13,23 @@
     },
     {
       "id": "lacy",
-      "name": "Lacy (live) 2026-11-20 14:33",
+      "name": "Lacy (live) 2026-11-20 14:38",
       "platform": "twitch",
       "url": "https://www.twitch.tv/lacy",
       "recording": true,
       "record_only": false
     },
     {
+      "id": "jasontheween",
+      "name": "jasontheween (live) 2026-11-20 14:38",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/jasontheween",
+      "recording": true,
+      "record_only": false
+    },
+    {
       "id": "kaicenat",
-      "name": "KaiCenat (live) 2026-11-20 14:33",
+      "name": "KaiCenat (live) 2026-11-20 14:38",
       "platform": "twitch",
       "url": "https://www.twitch.tv/kaicenat",
       "recording": true,
@@ -37,10 +37,18 @@
     },
     {
       "id": "dylanpage",
-      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 14:33",
+      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 14:38",
       "platform": "youtube",
       "url": "https://www.youtube.com/@dylan.page./live",
       "recording": true,
+      "record_only": false
+    },
+    {
+      "id": "tomo",
+      "name": "\ud83d\udd34 PLAYING GTA 6 (DAY 3) 2026-11-20 14:38",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@Tomovids/live",
+      "recording": false,
       "record_only": false
     }
   ],
@@ -54,7 +62,6 @@
     "kreekcraft",
     "asianjeff",
     "yourrage",
-    "tomo",
     "bobbyvanriper",
     "boeshi",
     "diegoloveless",
@@ -195,9 +202,9 @@
     }
   ],
   "pipeline": {
-    "watcher_running": true,
-    "disk_free_gb": 1395.3,
+    "watcher_running": false,
+    "disk_free_gb": 1393.7,
     "claude_backoff_until": "2026-11-20T14:58:23+00:00",
-    "last_autorun": "2026-11-20 14:28:37 Europe/London  autorun done in 13s  scored=0 judged=0 live=5"
+    "last_autorun": "2026-11-20 14:33:37 Europe/London  autorun done in 13s  scored=0 judged=0 live=5"
   }
 }
