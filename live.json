@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-20 13:40:38 GMT (Europe/London)",
+  "generated_at": "2026-11-20 13:45:26 GMT (Europe/London)",
   "timezone": "Europe/London",
   "pages_url": "https://harryfarnon.github.io/gta-clip-chaos-tracker/",
   "live_now": [
     {
       "id": "lacy",
-      "name": "Lacy (live) 2026-11-20 13:38",
+      "name": "Lacy (live) 2026-11-20 13:43",
       "platform": "twitch",
       "url": "https://www.twitch.tv/lacy",
       "recording": true,
@@ -13,15 +13,23 @@
     },
     {
       "id": "marlon",
-      "name": "Marlon (live) 2026-11-20 13:38",
+      "name": "Marlon (live) 2026-11-20 13:43",
       "platform": "twitch",
       "url": "https://www.twitch.tv/marlon",
       "recording": true,
       "record_only": false
     },
     {
+      "id": "jasontheween",
+      "name": "jasontheween (live) 2026-11-20 13:43",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/jasontheween",
+      "recording": true,
+      "record_only": false
+    },
+    {
       "id": "kaicenat",
-      "name": "KaiCenat (live) 2026-11-20 13:38",
+      "name": "KaiCenat (live) 2026-11-20 13:43",
       "platform": "twitch",
       "url": "https://www.twitch.tv/kaicenat",
       "recording": true,
@@ -29,7 +37,7 @@
     },
     {
       "id": "dylanpage",
-      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 13:38",
+      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 13:43",
       "platform": "youtube",
       "url": "https://www.youtube.com/@dylan.page./live",
       "recording": true,
@@ -37,7 +45,6 @@
     }
   ],
   "offline_campaign": [
-    "jasontheween",
     "clix",
     "adapt",
     "stableronaldo",
@@ -188,9 +195,9 @@
     }
   ],
   "pipeline": {
-    "watcher_running": false,
-    "disk_free_gb": 1399.2,
+    "watcher_running": true,
+    "disk_free_gb": 1398.8,
     "claude_backoff_until": "2026-11-20T14:58:23+00:00",
-    "last_autorun": "2026-11-20 13:33:37 Europe/London  autorun done in 13s  scored=0 judged=0 live=4"
+    "last_autorun": "2026-11-20 13:40:41 Europe/London  autorun done in 136s  scored=1 judged=0 live=4"
   }
 }
