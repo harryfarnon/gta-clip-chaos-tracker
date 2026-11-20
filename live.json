@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-20 14:44:47 GMT (Europe/London)",
+  "generated_at": "2026-11-20 14:48:36 GMT (Europe/London)",
   "timezone": "Europe/London",
   "pages_url": "https://harryfarnon.github.io/gta-clip-chaos-tracker/",
   "live_now": [
     {
-      "id": "marlon",
-      "name": "Marlon (live) 2026-11-20 14:43",
-      "platform": "twitch",
-      "url": "https://www.twitch.tv/marlon",
-      "recording": false,
-      "record_only": false
-    },
-    {
-      "id": "jasontheween",
-      "name": "jasontheween (live) 2026-11-20 14:43",
-      "platform": "twitch",
-      "url": "https://www.twitch.tv/jasontheween",
-      "recording": false,
-      "record_only": false
-    },
-    {
       "id": "lacy",
-      "name": "Lacy (live) 2026-11-20 14:43",
+      "name": "Lacy (live) 2026-11-20 14:48",
       "platform": "twitch",
       "url": "https://www.twitch.tv/lacy",
       "recording": false,
       "record_only": false
     },
     {
+      "id": "jasontheween",
+      "name": "jasontheween (live) 2026-11-20 14:48",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/jasontheween",
+      "recording": false,
+      "record_only": false
+    },
+    {
+      "id": "marlon",
+      "name": "Marlon (live) 2026-11-20 14:48",
+      "platform": "twitch",
+      "url": "https://www.twitch.tv/marlon",
+      "recording": false,
+      "record_only": false
+    },
+    {
       "id": "kaicenat",
-      "name": "KaiCenat (live) 2026-11-20 14:43",
+      "name": "KaiCenat (live) 2026-11-20 14:48",
       "platform": "twitch",
       "url": "https://www.twitch.tv/kaicenat",
       "recording": false,
@@ -37,7 +37,7 @@
     },
     {
       "id": "dylanpage",
-      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 14:43",
+      "name": "FIRST TO BEAT GTA 6 (By Cheating) | DAY 3 2026-11-20 14:48",
       "platform": "youtube",
       "url": "https://www.youtube.com/@dylan.page./live",
       "recording": false,
@@ -45,7 +45,7 @@
     },
     {
       "id": "tomo",
-      "name": "\ud83d\udd34 PLAYING GTA 6 (DAY 3) 2026-11-20 14:43",
+      "name": "\ud83d\udd34 PLAYING GTA 6 (DAY 3) 2026-11-20 14:48",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Tomovids/live",
       "recording": false,
@@ -205,6 +205,6 @@
     "watcher_running": false,
     "disk_free_gb": 1393.7,
     "claude_backoff_until": "2026-11-20T14:58:23+00:00",
-    "last_autorun": "2026-11-20 14:39:20 Europe/London  autorun done in 56s  scored=2 judged=0 live=6"
+    "last_autorun": "2026-11-20 14:44:50 Europe/London  autorun done in 86s  scored=3 judged=0 live=6"
   }
 }
