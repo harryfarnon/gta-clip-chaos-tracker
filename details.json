@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-11-21 11:52:00 GMT (Europe/London)",
+  "updated_at": "2026-11-21 11:54:26 GMT (Europe/London)",
   "next_update": "18:00 Europe/London",
-  "note": "Public view counts via yt-dlp. Submission flags come from posted-today.json / POSTED.md. Null views mean the fetch failed; previous values are kept when present.",
+  "note": "Public view counts via yt-dlp (venv binary). Submission flags come from posted-today.json / POSTED.md. Null views mean the fetch failed; previous values are kept when present.",
   "pipeline_health": {
     "watcher_running": false,
     "disk_free_gb": 1393.7,
     "claude_backoff_until": null,
     "last_autorun": "2026-11-20 17:53:40 Europe/London  autorun done in 16s  scored=0 judged=0 live=10",
     "notes": [
-      "PC is online. Latest live snapshot 17:58 Europe/London shows the watcher not running: 10 campaign streamers were live but none were being recorded.",
-      "52 clips ready to post; 3 held by the visual gate. Claude backoff has cleared.",
-      "4 clips from 19 Nov (YouTube DNk8I3vjWmI, u_DuASZu4eg, xeDpc3ZBtmU, J40k-2v1e0c) have no TikTok ID in POSTED.md, so TikTok views are blank. Their Content Rewards submissions were unknown."
+      "PC is connected (Harrys-PC). Live tracker last published 2026-11-20 17:58 Europe/London, about 18 hours stale at this run. Watcher was not running in that snapshot. last_autorun 2026-11-20 17:53:40 Europe/London.",
+      "As of that 20 Nov 17:58 snapshot: 52 clips ready to post; 3 held by the visual gate. Claude backoff had cleared.",
+      "Could not copy details.json to E:\\GTAClipChaos\\gallery\\details.json this run: CopyFromBox refused the path as outside the allowed local-exec root.",
+      "Includes the 21 Nov 09:00 batch (YouTube 9guSWOqug0A, cJv3g54ppEM, X6zQhyM18vs, W3-tro8_dn4), all submitted on YouTube and TikTok."
     ]
   },
   "clips": [
@@ -21,7 +22,7 @@
       "youtube_url": "https://youtube.com/shorts/2vpZ_e12Hsw",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710229920797953302",
       "youtube_views": 0,
-      "tiktok_views": 37,
+      "tiktok_views": 39,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -32,7 +33,7 @@
       "youtube_url": "https://youtube.com/shorts/FgG3-FuIfXc",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231011954576662",
       "youtube_views": 0,
-      "tiktok_views": 72,
+      "tiktok_views": 116,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -42,8 +43,8 @@
       "campaign": "lacy-gta-vi-marathon",
       "youtube_url": "https://youtube.com/shorts/1MmGuoUAZK8",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231887473610006",
-      "youtube_views": 1,
-      "tiktok_views": 7,
+      "youtube_views": 5,
+      "tiktok_views": 10,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -54,18 +55,18 @@
       "youtube_url": "https://youtube.com/shorts/emrnrmUrXX8",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710232618322873603",
       "youtube_views": 2,
-      "tiktok_views": 77,
+      "tiktok_views": 81,
       "yt_submitted": true,
       "tt_submitted": true
     },
     {
-      "title": "JasonTheWeen wins a GTA 6 street race by 0.2s \u2014 then the cops show up",
+      "title": "JasonTheWeen wins a GTA 6 street race by 0.2s — then the cops show up",
       "streamer": "JasonTheWeen",
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/DmjsrwyrhOY",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233448803208470",
       "youtube_views": 1,
-      "tiktok_views": 38,
+      "tiktok_views": 45,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -75,8 +76,8 @@
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/NwfR1AOv9oY",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233885702982934",
-      "youtube_views": 58,
-      "tiktok_views": 21,
+      "youtube_views": 62,
+      "tiktok_views": 25,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -86,8 +87,8 @@
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/OJdk8JJJBNE",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710256084094684438",
-      "youtube_views": 1,
-      "tiktok_views": 42,
+      "youtube_views": 2,
+      "tiktok_views": 61,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -98,7 +99,7 @@
       "youtube_url": "https://youtube.com/shorts/oH7b-2DXWV0",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710258078138109206",
       "youtube_views": 1,
-      "tiktok_views": 14,
+      "tiktok_views": 21,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -108,8 +109,8 @@
       "campaign": "lacy-gta-vi-marathon",
       "youtube_url": "https://youtube.com/shorts/MV2x5fuwZDQ",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710259611982368022",
-      "youtube_views": 0,
-      "tiktok_views": 1,
+      "youtube_views": 1,
+      "tiktok_views": 5,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -120,7 +121,7 @@
       "youtube_url": "https://youtube.com/shorts/gxZbp66k8do",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710261662560963862",
       "youtube_views": 1,
-      "tiktok_views": 27,
+      "tiktok_views": 40,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -130,8 +131,8 @@
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/9guSWOqug0A",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710548226079771926",
-      "youtube_views": null,
-      "tiktok_views": null,
+      "youtube_views": 243,
+      "tiktok_views": 96,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -141,8 +142,8 @@
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/cJv3g54ppEM",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710549778358177046",
-      "youtube_views": null,
-      "tiktok_views": null,
+      "youtube_views": 1,
+      "tiktok_views": 171,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -152,8 +153,8 @@
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/X6zQhyM18vs",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710552571215088918",
-      "youtube_views": null,
-      "tiktok_views": null,
+      "youtube_views": 0,
+      "tiktok_views": 8,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -163,8 +164,8 @@
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/W3-tro8_dn4",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710553664120687894",
-      "youtube_views": null,
-      "tiktok_views": null,
+      "youtube_views": 1,
+      "tiktok_views": 24,
       "yt_submitted": true,
       "tt_submitted": true
     }
