@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 11:51:17 GMT (Europe/London)",
+  "updated_at": "2026-11-21 11:52:00 GMT (Europe/London)",
   "next_update": "18:00 Europe/London",
   "note": "Public view counts via yt-dlp. Submission flags come from posted-today.json / POSTED.md. Null views mean the fetch failed; previous values are kept when present.",
   "pipeline_health": {
@@ -121,6 +121,50 @@
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710261662560963862",
       "youtube_views": 1,
       "tiktok_views": 27,
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "JasonTheWeen gets too greedy robbing a bank in GTA 6",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_url": "https://youtube.com/shorts/9guSWOqug0A",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710548226079771926",
+      "youtube_views": null,
+      "tiktok_views": null,
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "JasonTheWeen's controls quit mid-mission in GTA 6",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_url": "https://youtube.com/shorts/cJv3g54ppEM",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710549778358177046",
+      "youtube_views": null,
+      "tiktok_views": null,
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "JasonTheWeen's GTA 6 driving gets roasted",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_url": "https://youtube.com/shorts/X6zQhyM18vs",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710552571215088918",
+      "youtube_views": null,
+      "tiktok_views": null,
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "JasonTheWeen kills an NPC for no reason in GTA 6",
+      "streamer": "JasonTheWeen",
+      "campaign": "jasontheween-pool",
+      "youtube_url": "https://youtube.com/shorts/W3-tro8_dn4",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710553664120687894",
+      "youtube_views": null,
+      "tiktok_views": null,
       "yt_submitted": true,
       "tt_submitted": true
     }
