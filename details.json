@@ -8,10 +8,10 @@
     "claude_backoff_until": null,
     "last_autorun": "2026-11-20 17:53:40 Europe/London  autorun done in 16s  scored=0 judged=0 live=10",
     "notes": [
-      "PC is connected (Harrys-PC). Live tracker last published 2026-11-20 17:58 Europe/London, about 18 hours stale at this run. Watcher was not running in that snapshot. last_autorun 2026-11-20 17:53:40 Europe/London.",
+      "PC is connected (Harrys-PC) as of this 22 Nov 11:56 Europe/London run. Live tracker last published 2026-11-20 17:58 Europe/London, about 42 hours stale. Watcher was not running in that snapshot. last_autorun 2026-11-20 17:53:40 Europe/London.",
       "As of that 20 Nov 17:58 snapshot: 52 clips ready to post; 3 held by the visual gate. Claude backoff had cleared.",
-      "Could not copy details.json to E:\\GTAClipChaos\\gallery\\details.json this run: CopyFromBox refused the path as outside the allowed local-exec root.",
-      "Includes the 21 Nov 09:00 batch (YouTube 9guSWOqug0A, cJv3g54ppEM, X6zQhyM18vs, W3-tro8_dn4), all submitted on YouTube and TikTok."
+      "Could not copy details.json to E:\\GTAClipChaos\\gallery\\details.json: CopyFromBox refuses E:\\ as outside the allowed local-exec root. The update script does not perform the PC copy itself.",
+      "Includes the 21 Nov 09:00 batch (YouTube 9guSWOqug0A, cJv3g54ppEM, X6zQhyM18vs, W3-tro8_dn4), all submitted on YouTube and TikTok. No 22 Nov clips in posted-today.json (last updated 2026-11-21 11:51 Europe/London)."
     ]
   },
   "clips": [
