@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 11:56:14 GMT (Europe/London)",
+  "updated_at": "2026-11-22 17:48:56 GMT (Europe/London)",
   "next_update": "18:00 Europe/London",
   "note": "Public view counts via yt-dlp. Submission flags come from posted-today.json / POSTED.md. Null views mean the fetch failed; previous values are kept when present.",
   "pipeline_health": {
@@ -33,7 +33,7 @@
       "youtube_url": "https://youtube.com/shorts/FgG3-FuIfXc",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231011954576662",
       "youtube_views": 1,
-      "tiktok_views": 126,
+      "tiktok_views": 131,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -65,8 +65,8 @@
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/DmjsrwyrhOY",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233448803208470",
-      "youtube_views": 2,
-      "tiktok_views": 50,
+      "youtube_views": 4,
+      "tiktok_views": 56,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -88,7 +88,7 @@
       "youtube_url": "https://youtube.com/shorts/OJdk8JJJBNE",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710256084094684438",
       "youtube_views": 3,
-      "tiktok_views": 85,
+      "tiktok_views": 91,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -165,7 +165,7 @@
       "youtube_url": "https://youtube.com/shorts/W3-tro8_dn4",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710553664120687894",
       "youtube_views": 1,
-      "tiktok_views": 49,
+      "tiktok_views": 51,
       "yt_submitted": true,
       "tt_submitted": true
     }
