@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 17:48:56 GMT (Europe/London)",
+  "updated_at": "2026-11-23 11:50:01 GMT (Europe/London)",
   "next_update": "18:00 Europe/London",
   "note": "Public view counts via yt-dlp. Submission flags come from posted-today.json / POSTED.md. Null views mean the fetch failed; previous values are kept when present.",
   "pipeline_health": {
@@ -33,7 +33,7 @@
       "youtube_url": "https://youtube.com/shorts/FgG3-FuIfXc",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231011954576662",
       "youtube_views": 1,
-      "tiktok_views": 131,
+      "tiktok_views": 140,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -43,7 +43,7 @@
       "campaign": "lacy-gta-vi-marathon",
       "youtube_url": "https://youtube.com/shorts/1MmGuoUAZK8",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231887473610006",
-      "youtube_views": 13,
+      "youtube_views": 14,
       "tiktok_views": 10,
       "yt_submitted": true,
       "tt_submitted": true
@@ -66,7 +66,7 @@
       "youtube_url": "https://youtube.com/shorts/DmjsrwyrhOY",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233448803208470",
       "youtube_views": 4,
-      "tiktok_views": 56,
+      "tiktok_views": 57,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -77,7 +77,7 @@
       "youtube_url": "https://youtube.com/shorts/NwfR1AOv9oY",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233885702982934",
       "youtube_views": 68,
-      "tiktok_views": 25,
+      "tiktok_views": 26,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -88,7 +88,7 @@
       "youtube_url": "https://youtube.com/shorts/OJdk8JJJBNE",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710256084094684438",
       "youtube_views": 3,
-      "tiktok_views": 91,
+      "tiktok_views": 95,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -99,7 +99,7 @@
       "youtube_url": "https://youtube.com/shorts/oH7b-2DXWV0",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710258078138109206",
       "youtube_views": 1,
-      "tiktok_views": 21,
+      "tiktok_views": 23,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -109,7 +109,7 @@
       "campaign": "lacy-gta-vi-marathon",
       "youtube_url": "https://youtube.com/shorts/MV2x5fuwZDQ",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710259611982368022",
-      "youtube_views": 1,
+      "youtube_views": 0,
       "tiktok_views": 5,
       "yt_submitted": true,
       "tt_submitted": true
@@ -121,7 +121,7 @@
       "youtube_url": "https://youtube.com/shorts/gxZbp66k8do",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710261662560963862",
       "youtube_views": 1,
-      "tiktok_views": 48,
+      "tiktok_views": 51,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -131,7 +131,7 @@
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/9guSWOqug0A",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710548226079771926",
-      "youtube_views": 940,
+      "youtube_views": 1020,
       "tiktok_views": 103,
       "yt_submitted": true,
       "tt_submitted": true
@@ -142,8 +142,8 @@
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/cJv3g54ppEM",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710549778358177046",
-      "youtube_views": 4,
-      "tiktok_views": 181,
+      "youtube_views": 5,
+      "tiktok_views": 184,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -165,7 +165,7 @@
       "youtube_url": "https://youtube.com/shorts/W3-tro8_dn4",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710553664120687894",
       "youtube_views": 1,
-      "tiktok_views": 51,
+      "tiktok_views": 58,
       "yt_submitted": true,
       "tt_submitted": true
     }
