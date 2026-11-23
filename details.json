@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 17:52:52 GMT (Europe/London)",
+  "updated_at": "2026-11-23 17:53:07 GMT (Europe/London)",
   "next_update": "12:00 (next day) Europe/London",
   "note": "Public view counts via yt-dlp (and oembed for one title). Submission flags come from posted-today.json / POSTED.md. Null views mean the fetch failed; previous values are kept when present.",
   "pipeline_health": {
@@ -11,7 +11,7 @@
       "PC is connected (Harrys-PC) as of this 23 Nov 17:55 Europe/London run. Live tracker last published 2026-11-20 17:58 Europe/London, about 72 hours stale. Watcher was not running in that snapshot. last_autorun 2026-11-20 17:53:40 Europe/London.",
       "As of that 20 Nov 17:58 snapshot: 52 clips ready to post; 3 held by the visual gate. Claude backoff had cleared.",
       "Could not copy details.json to E:\\GTAClipChaos\\gallery\\details.json on the previous run: CopyFromBox refuses E:\\ as outside the allowed local-exec root. The update script does not perform the PC copy itself. Retry attempted this run; nothing was written to C:.",
-      "posted-today.json was stale (last updated 21 Nov 11:51). This run added the 22 Nov 21:00 JasonTheWeen batch (YouTube VBG9VJWcth0, rLDv5FYEjbQ, JyXqaT-eJAw, lrg3zHTo0_k, yswvw1e7-PE; all submitted on YouTube and TikTok) and the 23 Nov posts (Kai Cenat MWP1uwltpcI submitted on YouTube and TikTok; motion Shorts G6RPVox1R2g and e006y93RKYo, YouTube only, no campaign submission). YouTube views for G6RPVox1R2g left null after a yt-dlp bot check."
+      "posted-today.json was stale (last updated 21 Nov 11:51). This run added the 22 Nov 21:00 JasonTheWeen batch (YouTube VBG9VJWcth0, rLDv5FYEjbQ, JyXqaT-eJAw, lrg3zHTo0_k, yswvw1e7-PE; all submitted on YouTube and TikTok) and the 23 Nov posts (Kai Cenat MWP1uwltpcI submitted on YouTube and TikTok; motion Shorts G6RPVox1R2g and e006y93RKYo, YouTube only, no campaign submission). YouTube views for G6RPVox1R2g filled from the public watch page (yt-dlp hit a bot check)."
     ]
   },
   "clips": [
@@ -241,7 +241,7 @@
       "campaign": "",
       "youtube_url": "https://youtube.com/shorts/G6RPVox1R2g",
       "tiktok_url": "",
-      "youtube_views": null,
+      "youtube_views": 5,
       "tiktok_views": null,
       "yt_submitted": false,
       "tt_submitted": false
