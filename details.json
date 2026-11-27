@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-26 17:55:08 GMT (Europe/London)",
-  "next_update": "12:00 (next day) Europe/London",
+  "updated_at": "2026-11-27 11:55:50 GMT (Europe/London)",
+  "next_update": "18:00 Europe/London",
   "note": "Public view counts via yt-dlp. Submission flags come from posted-today.json / POSTED.md. Null views mean the fetch failed; previous values are kept when present.",
   "pipeline_health": {
     "watcher_running": true,
     "disk_free_gb": 1491.8,
     "claude_backoff_until": "2026-11-26T18:00:00+00:00",
-    "last_autorun": "2026-11-26 17:48:50 Europe/London  autorun done in 27s  scored=0 judged=1 live=1",
+    "last_autorun": "2026-11-26 17:43:46 Europe/London  autorun done in 22s  scored=0 judged=1 live=1",
     "notes": [
       "PC is connected (Harrys-PC) as of this 26 Nov 17:55 Europe/London run. Watcher is running; it was recording bobby_vanriper at the 17:48 live snapshot. Disk free 1491.8 GB. last_autorun 2026-11-26 17:48:50 Europe/London (scored=0 judged=1 live=1).",
       "The public Pages live tracker is still stuck at 2026-11-20 17:58 Europe/London, even though the PC has rebuilt live.json and tracker.html every 5 minutes (latest local file 2026-11-26 17:48:49). E:\\GTAClipChaos\\tools\\tracker-pages is 1110 commits ahead of its stale origin/main (b8f086d, 20 Nov 17:58). GitHub origin/main already has later Daily details commits from the box, so a straight git push from the PC would not be a fast-forward. This run did not touch the live publisher or force-push those commits.",
@@ -34,7 +34,7 @@
       "youtube_url": "https://youtube.com/shorts/FgG3-FuIfXc",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231011954576662",
       "youtube_views": 1,
-      "tiktok_views": 155,
+      "tiktok_views": 158,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -44,7 +44,7 @@
       "campaign": "lacy-gta-vi-marathon",
       "youtube_url": "https://youtube.com/shorts/1MmGuoUAZK8",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231887473610006",
-      "youtube_views": 14,
+      "youtube_views": 15,
       "tiktok_views": 10,
       "yt_submitted": true,
       "tt_submitted": true
@@ -61,13 +61,13 @@
       "tt_submitted": true
     },
     {
-      "title": "JasonTheWeen wins a GTA 6 street race by 0.2s — then the cops show up",
+      "title": "JasonTheWeen wins a GTA 6 street race by 0.2s \u2014 then the cops show up",
       "streamer": "JasonTheWeen",
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/DmjsrwyrhOY",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233448803208470",
       "youtube_views": 5,
-      "tiktok_views": 69,
+      "tiktok_views": 72,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -166,7 +166,7 @@
       "youtube_url": "https://youtube.com/shorts/W3-tro8_dn4",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710553664120687894",
       "youtube_views": 1,
-      "tiktok_views": 70,
+      "tiktok_views": 71,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -232,7 +232,7 @@
       "youtube_url": "https://youtube.com/shorts/MWP1uwltpcI",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7711286798684523798",
       "youtube_views": 681,
-      "tiktok_views": 255,
+      "tiktok_views": 256,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -255,6 +255,50 @@
       "tiktok_url": "",
       "youtube_views": 1,
       "tiktok_views": null,
+      "yt_submitted": false,
+      "tt_submitted": false
+    },
+    {
+      "title": "Kai Cenat dies and loses ALL his money in GTA 6",
+      "streamer": "Kai Cenat",
+      "campaign": "kai-cenat-pool",
+      "youtube_url": "https://youtube.com/shorts/Ob-y7Ie6ZUg",
+      "tiktok_url": "",
+      "youtube_views": 380,
+      "tiktok_views": null,
+      "yt_submitted": false,
+      "tt_submitted": false
+    },
+    {
+      "title": "Bobby Vanriper cracks his first GTA 6 vault",
+      "streamer": "Bobby VanRiper",
+      "campaign": "bobby-vanriper",
+      "youtube_url": "https://youtube.com/shorts/2N9_bmBCp5k",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712773005528583446",
+      "youtube_views": 68,
+      "tiktok_views": 191,
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "Bobby VanRiper gets put ON HOLD in GTA 6",
+      "streamer": "Bobby VanRiper",
+      "campaign": "bobby-vanriper",
+      "youtube_url": "https://youtube.com/shorts/bTzlFYUFJ18",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712773984626003222",
+      "youtube_views": 0,
+      "tiktok_views": 156,
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "AsianJeff saves his partner hanging off a helicopter in GTA 6",
+      "streamer": "AsianJeff",
+      "campaign": "asianjeff",
+      "youtube_url": "https://youtube.com/shorts/Z61rUjUfqEo",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712774747997621526",
+      "youtube_views": 0,
+      "tiktok_views": 139,
       "yt_submitted": false,
       "tt_submitted": false
     }
