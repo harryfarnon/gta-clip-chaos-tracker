@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-27 17:56:49 GMT (Europe/London)",
-  "next_update": "18:00 Europe/London",
+  "updated_at": "2026-11-27 17:59:55 GMT (Europe/London)",
+  "next_update": "12:00 (next day) Europe/London",
   "note": "Public view counts via yt-dlp. Submission flags come from posted-today.json / POSTED.md. Null views mean the fetch failed; previous values are kept when present.",
   "pipeline_health": {
     "watcher_running": true,
-    "disk_free_gb": 1491.8,
-    "claude_backoff_until": "2026-11-26T18:00:00+00:00",
-    "last_autorun": "2026-11-26 17:43:46 Europe/London  autorun done in 22s  scored=0 judged=1 live=1",
+    "disk_free_gb": 1587.4,
+    "claude_backoff_until": "2026-11-28T09:00:00+00:00",
+    "last_autorun": "2026-11-27 17:48:48 Europe/London  autorun done in 23s  scored=0 judged=1 live=0",
     "notes": [
-      "PC is connected (Harrys-PC) as of this 27 Nov 11:55 Europe/London run. Watcher is running; no campaigns were live at the 11:53 snapshot. Disk free 1571.8 GB. last_autorun 2026-11-27 11:48:47 Europe/London (scored=0 judged=1 live=0).",
-      "The public Pages live tracker is still stuck at 2026-11-20 17:58 Europe/London, even though the PC has rebuilt live.json and tracker.html every 5 minutes (latest local file 2026-11-27 11:53:46). E:\\GTAClipChaos\\tools\\tracker-pages is 1325 commits ahead of its stale origin/main. GitHub origin/main already has later Daily details commits from the box, so a straight git push from the PC would not be a fast-forward. This run did not touch the live publisher or force-push those commits.",
-      "Judging is still paused: judge_engine=paused, Claude backoff until 2026-11-28 09:00 Europe/London. Snapshot counts: 94 unjudged windows, 67 ready to post, 5 held by the visual gate.",
+      "PC is connected (Harrys-PC) as of this 27 Nov 18:00 Europe/London run. Watcher is running; no campaigns were live at the 17:53:46 snapshot. Disk free 1587.4 GB. last_autorun 2026-11-27 17:48:48 Europe/London (scored=0 judged=1 live=0).",
+      "The public Pages live tracker is still stuck at 2026-11-20 17:58 Europe/London, even though the PC has rebuilt live.json and tracker.html every 5 minutes (latest local file 2026-11-27 17:53:46). E:\\GTAClipChaos\\tools\\tracker-pages was 1325 commits ahead of its stale origin/main at the noon run; GitHub origin/main already has later Daily details commits from the box, so a straight git push from the PC would not be a fast-forward. This run did not touch the live publisher or force-push those commits.",
+      "Judging is still paused: judge_engine=paused, Claude backoff until 2026-11-28 09:00 Europe/London. Snapshot counts: 19 unjudged windows, 68 ready to post, 5 held by the visual gate.",
       "CopyFromBox/CopyToBox still refuse E:\\ as outside the allowed local-exec root; nothing was written to C:. This run copies details.json to E:\\GTAClipChaos\\gallery\\details.json with a PC shell after the Pages push.",
-      "posted-today.json on the box was updated this run from POSTED.md to cover 20-27 Nov (added Kai Cenat Ob-y7Ie6ZUg from 26 Nov, plus three 27 Nov 09:00 posts). The PC queue copy is still dated 20 Nov 18:02 and only has the first 20 Nov batch. 27 Nov folders 04_yourrage-cop-car-flip and 05_yourrage-safe-wrecking-ball are staged but not in POSTED.md, so they were not added. View counts are from yt-dlp. tiktok_views is null for the two YouTube-only motion Shorts and for the 26 Nov Kai Cenat clip (no matching upload on the public TikTok page; latest TikToks are the three 27 Nov posts)."
+      "posted-today.json on the box was updated this run from POSTED.md to add the six 27 Nov 12:00 and 15:00 posts (YourRAGE 04-06, Boeshi 07-08, KreekCraft 09). No 18:00 batch was in POSTED.md yet. The PC queue copy is still dated 20 Nov 18:02 and only has the first 20 Nov batch. View counts are from yt-dlp. youtube_views is null for YourRAGE cop-car-flip (zVlg8o_CcGY) because the Short is age-restricted and yt-dlp needs cookies; it was left blank rather than guessed. tiktok_views is null for the two YouTube-only motion Shorts and the 26 Nov Kai Cenat clip (no TikTok URL). Boeshi jewellery-heist is marked tt_submitted=true (submitted via card; URL paste failed, unverified on the Submissions page). KreekCraft 09 was not submitted (campaign paused, out of budget)."
     ]
   },
   "clips": [
@@ -299,6 +299,72 @@
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712774747997621526",
       "youtube_views": 0,
       "tiktok_views": 192,
+      "yt_submitted": false,
+      "tt_submitted": false
+    },
+    {
+      "title": "YourRAGE flips a cop car in a GTA 6 police chase",
+      "streamer": "YourRage",
+      "campaign": "yourrage-pool",
+      "youtube_url": "https://youtube.com/shorts/zVlg8o_CcGY",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712818840593255702",
+      "youtube_views": null,
+      "tiktok_views": 211,
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "YourRAGE turns a stolen safe into a wrecking ball in GTA 6",
+      "streamer": "YourRage",
+      "campaign": "yourrage-pool",
+      "youtube_url": "https://youtube.com/shorts/v5ZNQJRuRF0",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712820032186649878",
+      "youtube_views": 0,
+      "tiktok_views": 205,
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "YourRAGE can't believe the GTA 6 NPCs started a street fight",
+      "streamer": "YourRage",
+      "campaign": "yourrage-pool",
+      "youtube_url": "https://youtube.com/shorts/iJGGfbtP3VM",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712821022667509015",
+      "youtube_views": 0,
+      "tiktok_views": 221,
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "Boeshi escapes the cops down the train tracks in GTA 6",
+      "streamer": "Boeshi",
+      "campaign": "boeshi-gta6",
+      "youtube_url": "https://youtube.com/shorts/6HrA5TLbhNg",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712865221987290390",
+      "youtube_views": 0,
+      "tiktok_views": 9,
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "Boeshi smash-and-grabs a GTA 6 jewellery store",
+      "streamer": "Boeshi",
+      "campaign": "boeshi-gta6",
+      "youtube_url": "https://youtube.com/shorts/P9MB5XGYWs0",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712866790958730518",
+      "youtube_views": 0,
+      "tiktok_views": 7,
+      "yt_submitted": true,
+      "tt_submitted": true
+    },
+    {
+      "title": "KreekCraft's GTA 6 cutscene gets blown up",
+      "streamer": "KreekCraft",
+      "campaign": "kreekcraft-gta6",
+      "youtube_url": "https://youtube.com/shorts/KXRceYogtyA",
+      "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712868549571726614",
+      "youtube_views": 1,
+      "tiktok_views": 19,
       "yt_submitted": false,
       "tt_submitted": false
     }
