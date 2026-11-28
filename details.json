@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-27 17:59:55 GMT (Europe/London)",
-  "next_update": "12:00 (next day) Europe/London",
+  "updated_at": "2026-11-28 11:53:42 GMT (Europe/London)",
+  "next_update": "18:00 Europe/London",
   "note": "Public view counts via yt-dlp. Submission flags come from posted-today.json / POSTED.md. Null views mean the fetch failed; previous values are kept when present.",
   "pipeline_health": {
     "watcher_running": true,
-    "disk_free_gb": 1587.4,
-    "claude_backoff_until": "2026-11-28T09:00:00+00:00",
-    "last_autorun": "2026-11-27 17:48:48 Europe/London  autorun done in 23s  scored=0 judged=1 live=0",
+    "disk_free_gb": 1491.8,
+    "claude_backoff_until": "2026-11-26T18:00:00+00:00",
+    "last_autorun": "2026-11-26 17:43:46 Europe/London  autorun done in 22s  scored=0 judged=1 live=1",
     "notes": [
       "PC is connected (Harrys-PC) as of this 27 Nov 18:00 Europe/London run. Watcher is running; no campaigns were live at the 17:53:46 snapshot. Disk free 1587.4 GB. last_autorun 2026-11-27 17:48:48 Europe/London (scored=0 judged=1 live=0).",
       "The public Pages live tracker is still stuck at 2026-11-20 17:58 Europe/London, even though the PC has rebuilt live.json and tracker.html every 5 minutes (latest local file 2026-11-27 17:53:46). E:\\GTAClipChaos\\tools\\tracker-pages was 1325 commits ahead of its stale origin/main at the noon run; GitHub origin/main already has later Daily details commits from the box, so a straight git push from the PC would not be a fast-forward. This run did not touch the live publisher or force-push those commits.",
@@ -33,8 +33,8 @@
       "campaign": "jasontheween-pool",
       "youtube_url": "https://youtube.com/shorts/FgG3-FuIfXc",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710231011954576662",
-      "youtube_views": 1,
-      "tiktok_views": 206,
+      "youtube_views": 2,
+      "tiktok_views": 218,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -67,7 +67,7 @@
       "youtube_url": "https://youtube.com/shorts/DmjsrwyrhOY",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233448803208470",
       "youtube_views": 5,
-      "tiktok_views": 72,
+      "tiktok_views": 73,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -78,7 +78,7 @@
       "youtube_url": "https://youtube.com/shorts/NwfR1AOv9oY",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710233885702982934",
       "youtube_views": 68,
-      "tiktok_views": 29,
+      "tiktok_views": 30,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -89,7 +89,7 @@
       "youtube_url": "https://youtube.com/shorts/OJdk8JJJBNE",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710256084094684438",
       "youtube_views": 3,
-      "tiktok_views": 109,
+      "tiktok_views": 110,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -100,7 +100,7 @@
       "youtube_url": "https://youtube.com/shorts/oH7b-2DXWV0",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710258078138109206",
       "youtube_views": 1,
-      "tiktok_views": 27,
+      "tiktok_views": 29,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -122,7 +122,7 @@
       "youtube_url": "https://youtube.com/shorts/gxZbp66k8do",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710261662560963862",
       "youtube_views": 1,
-      "tiktok_views": 59,
+      "tiktok_views": 60,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -166,7 +166,7 @@
       "youtube_url": "https://youtube.com/shorts/W3-tro8_dn4",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7710553664120687894",
       "youtube_views": 1,
-      "tiktok_views": 71,
+      "tiktok_views": 72,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -264,7 +264,7 @@
       "campaign": "kai-cenat-pool",
       "youtube_url": "https://youtube.com/shorts/Ob-y7Ie6ZUg",
       "tiktok_url": "",
-      "youtube_views": 438,
+      "youtube_views": 545,
       "tiktok_views": null,
       "yt_submitted": false,
       "tt_submitted": false
@@ -275,8 +275,8 @@
       "campaign": "bobby-vanriper",
       "youtube_url": "https://youtube.com/shorts/2N9_bmBCp5k",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712773005528583446",
-      "youtube_views": 203,
-      "tiktok_views": 215,
+      "youtube_views": 263,
+      "tiktok_views": 219,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -287,7 +287,7 @@
       "youtube_url": "https://youtube.com/shorts/bTzlFYUFJ18",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712773984626003222",
       "youtube_views": 0,
-      "tiktok_views": 177,
+      "tiktok_views": 178,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -297,7 +297,7 @@
       "campaign": "asianjeff",
       "youtube_url": "https://youtube.com/shorts/Z61rUjUfqEo",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712774747997621526",
-      "youtube_views": 0,
+      "youtube_views": 3,
       "tiktok_views": 192,
       "yt_submitted": false,
       "tt_submitted": false
@@ -309,7 +309,7 @@
       "youtube_url": "https://youtube.com/shorts/zVlg8o_CcGY",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712818840593255702",
       "youtube_views": null,
-      "tiktok_views": 211,
+      "tiktok_views": 214,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -320,7 +320,7 @@
       "youtube_url": "https://youtube.com/shorts/v5ZNQJRuRF0",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712820032186649878",
       "youtube_views": 0,
-      "tiktok_views": 205,
+      "tiktok_views": 207,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -330,8 +330,8 @@
       "campaign": "yourrage-pool",
       "youtube_url": "https://youtube.com/shorts/iJGGfbtP3VM",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712821022667509015",
-      "youtube_views": 0,
-      "tiktok_views": 221,
+      "youtube_views": 2,
+      "tiktok_views": 226,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -341,8 +341,8 @@
       "campaign": "boeshi-gta6",
       "youtube_url": "https://youtube.com/shorts/6HrA5TLbhNg",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712865221987290390",
-      "youtube_views": 0,
-      "tiktok_views": 9,
+      "youtube_views": 1,
+      "tiktok_views": 11,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -353,7 +353,7 @@
       "youtube_url": "https://youtube.com/shorts/P9MB5XGYWs0",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712866790958730518",
       "youtube_views": 0,
-      "tiktok_views": 7,
+      "tiktok_views": 11,
       "yt_submitted": true,
       "tt_submitted": true
     },
@@ -363,8 +363,8 @@
       "campaign": "kreekcraft-gta6",
       "youtube_url": "https://youtube.com/shorts/KXRceYogtyA",
       "tiktok_url": "https://www.tiktok.com/@gta6clipchaos/video/7712868549571726614",
-      "youtube_views": 1,
-      "tiktok_views": 19,
+      "youtube_views": 3,
+      "tiktok_views": 28,
       "yt_submitted": false,
       "tt_submitted": false
     }
